@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+E:\clg_project\pharmacy\pharmacy\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2306233337.index
+1274587354.index
+533966776.index
+3247187387.index
+3941318097.index
+1832166812.index
+258913656.index
